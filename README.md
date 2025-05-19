@@ -133,7 +133,4 @@ Mi filosofía profesional se centra en:
 3. **Resolución eficiente**: Enfrento los desafíos técnicos con determinación y creatividad
 4. **Colaboración efectiva**: Promuevo un ambiente de trabajo donde la iniciativa y la cooperación impulsan resultados excepcionales
 
----
 
-*Este README refleja mi compromiso con la excelencia técnica y mi enfoque proactivo para el desarrollo profesional. ¡Estoy lista para colaborar en proyectos desafiantes que requieran iniciativa y habilidades full-stack!* click the Preview link to take a look at your changes.
---->
