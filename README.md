@@ -116,7 +116,7 @@ Demostré iniciativa y autonomía a través de:
 
 - 📧 Email: [univ.angel97@gmail.com](mailto:univ.angel97@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/zillgc](https://www.linkedin.com/in/zillgc)
-- 💻 GitHub: [github.com/Zillgc](https://github.com/Zillgc)
+- 💻 GitHub: [github.com/Ziilgc](https://github.com/Ziilgc)
 - 📱 Teléfono: +34 628150324
 - 📍 Gran Canaria, España
 
