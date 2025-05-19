@@ -69,27 +69,6 @@ Aplicación web completa para la gestión eficiente de citas, desarrollada con u
 
 ---
 
-## 🌱 Experiencia Profesional
-
-### 👩‍💼 Encargada de Sala y Cocina | Canrestric SL
-**2022 - 2025 | Las Palmas de Gran Canaria**
-
-Mi enfoque proactivo revolucionó la gestión operativa:
-- Dirección proactiva de un equipo de más de 10 personas, anticipando necesidades de personal y formación
-- Formación preventiva de más de 30 personas, desarrollando planes de capacitación antes de que surgieran deficiencias
-- Implementación de sistemas de atención personalizada basados en análisis predictivos de preferencias de clientes
-- Optimización de procesos de comunicación interna que aumentaron la eficiencia del equipo en un 35%
-
-### 👩‍⚖️ Abogada en Prácticas | Despacho de José Antonio Penichet Sánchez
-**01/2020 - 01/2021 | Las Palmas de Gran Canaria**
-
-Demostré iniciativa y autonomía a través de:
-- Atención proactiva a clientes, anticipando consultas y preparando documentación relevante antes de reuniones
-- Búsqueda autónoma de jurisprudencia actualizada para fortalecer casos en curso
-- Preparación anticipada de escritos jurídicos, reduciendo tiempos de respuesta
-
----
-
 ## 📚 Formación
 
 ### 🎓 Full-Stack Developer | 4Geeks Academy
